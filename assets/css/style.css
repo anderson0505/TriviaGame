@@ -1,0 +1,44 @@
+.break {
+    text-align: center;
+}
+
+
+body {
+    background-image: url("../images/polka-dots.png");
+}
+
+#btn {
+     align-items: center;
+}
+
+.jumbotron {
+    background-image: url("../images/Picture1.jpg");
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.navbar-text {
+    text-align: center;
+}
+
+.navbar {
+    opacity: 0;
+  }
+
+  .container, #start {
+      color: rgb(184, 32, 32);
+      font-weight: 900;
+      font-size: 20px;
+  }
+
+  #trivia, #explain, #countdown, #start, #home, #timer {
+      font-weight: 900;
+      color: rgb(184, 32, 32);
+  }
+  
+  #btnstart {
+      background-color: rgb(184, 32, 32);
+      color: white;
+  }
